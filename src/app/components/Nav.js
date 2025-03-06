@@ -49,7 +49,7 @@ export default function Nav() {
                                     Dashboard
                                 </Link>
                                 <Link href="/routes/mint" className="block px-4 py-2 text-gray-800 hover:bg-gray-100">
-                                    Dashboard
+                                    New report
                                 </Link>
                             </div>
                         )}
