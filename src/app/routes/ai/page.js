@@ -25,7 +25,7 @@ export default function Page() {
 
     return (
         <div className='flex flex-col text-black items-center bg-white h-screen'>
-            <h1 className='text-3xl font-bold'>Ai help</h1>
+            <h1 className='text-3xl font-bold'>SHE bot</h1>
             <div className='w-[75%] m-auto'>
                 {`${aiResponse}`}
 
